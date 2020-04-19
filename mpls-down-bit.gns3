@@ -19,7 +19,7 @@
         "drawings": [
             {
                 "drawing_id": "abaddece-96cb-41d4-a304-672e630687f4",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"855\" height=\"262\"><rect width=\"855\" height=\"262\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -404,
@@ -28,7 +28,7 @@
             },
             {
                 "drawing_id": "532e4daa-8b27-4133-a167-fcb3bc183d62",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"48\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">MPLS</text></svg>",
                 "x": -97,
@@ -37,7 +37,7 @@
             },
             {
                 "drawing_id": "8135b84c-8d1e-4121-a24b-d98523a95455",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"54\" height=\"42\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\"> OSPF\narea 0</text></svg>",
                 "x": -98,
@@ -46,7 +46,7 @@
             },
             {
                 "drawing_id": "ee9bb57c-015c-41c8-b10e-ea67efefa87f",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"51\" height=\"42\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">iBGP\nas100</text></svg>",
                 "x": -97,
@@ -55,7 +55,7 @@
             },
             {
                 "drawing_id": "31a78309-fae5-4565-a330-baa31c287ae9",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"94\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 10.0.1.1</text></svg>",
                 "x": -377,
@@ -64,7 +64,7 @@
             },
             {
                 "drawing_id": "02b2fcb8-8819-4a05-9d09-ee3b3e28fe55",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"94\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 10.0.2.1</text></svg>",
                 "x": -121,
@@ -73,7 +73,7 @@
             },
             {
                 "drawing_id": "1cda221e-0661-4e83-a617-b0c2479ddf97",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"94\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 10.0.3.1</text></svg>",
                 "x": 138,
@@ -82,7 +82,7 @@
             },
             {
                 "drawing_id": "cf4e5ea9-8398-46c8-b545-db7377541cdc",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"99\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.0.12.0/24</text></svg>",
                 "x": -244,
@@ -91,7 +91,7 @@
             },
             {
                 "drawing_id": "68db8193-acbb-4396-901c-0870516aa902",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"99\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.0.23.0/24</text></svg>",
                 "x": -5,
@@ -100,7 +100,7 @@
             },
             {
                 "drawing_id": "d9bcba1e-ae9d-4b05-bff9-58df45714261",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"126\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.100.0/24</text></svg>",
                 "x": -393,
@@ -109,7 +109,7 @@
             },
             {
                 "drawing_id": "9828eb06-a94b-4fce-9f99-62d7f4366bce",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"126\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.200.0/24</text></svg>",
                 "x": 128,
@@ -118,7 +118,7 @@
             },
             {
                 "drawing_id": "ec5cc773-fb8e-4fd3-8971-ed14bda92623",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"121\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 172.16.10.1</text></svg>",
                 "x": -382,
@@ -127,7 +127,7 @@
             },
             {
                 "drawing_id": "a5098c97-cc9f-45a1-b784-f4687aa40470",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"121\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 172.16.20.1</text></svg>",
                 "x": 137,
@@ -136,16 +136,16 @@
             },
             {
                 "drawing_id": "12073ab7-500e-482f-973f-ed300ee45594",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
-                "svg": "<svg width=\"695\" height=\"238\"><rect width=\"695\" height=\"238\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"860\" height=\"238\"><rect width=\"860\" height=\"238\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": -408,
-                "y": 28,
+                "y": 27,
                 "z": -1
             },
             {
                 "drawing_id": "90ce5e44-9bfe-4288-a108-cd82062e2502",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"63\" height=\"42\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">  OSPF\narea 10</text></svg>",
                 "x": -104,
@@ -154,7 +154,7 @@
             },
             {
                 "drawing_id": "ce2c1739-e079-4257-a329-3d0e099a4dff",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"61\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">CUST-A</text></svg>",
                 "x": -105,
@@ -163,7 +163,7 @@
             },
             {
                 "drawing_id": "2cf58ac4-7c65-439b-84c2-503128711055",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"126\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.201.0/24</text></svg>",
                 "x": 256,
@@ -172,7 +172,7 @@
             },
             {
                 "drawing_id": "a74ec6d9-ac68-4273-a224-00ee640af254",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"94\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 10.0.4.1</text></svg>",
                 "x": 322,
@@ -181,7 +181,7 @@
             },
             {
                 "drawing_id": "a189451b-8584-49b0-9a03-469328a2b516",
-                "locked": false,
+                "locked": true,
                 "rotation": 0,
                 "svg": "<svg width=\"99\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.0.34.0/24</text></svg>",
                 "x": 225,
@@ -393,7 +393,7 @@
                     "x": 18,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "HQ",
                 "node_id": "497ad690-2501-4ad3-a5af-aea10c325e25",
                 "node_type": "dynamips",
@@ -462,7 +462,7 @@
                     "x": 15,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "SP1",
                 "node_id": "6f699e9e-7af1-4861-9119-7dfd6589a0f2",
                 "node_type": "dynamips",
@@ -531,7 +531,7 @@
                     "x": 15,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "SP2",
                 "node_id": "cda82213-1e67-47a8-b42d-6e5c9c282422",
                 "node_type": "dynamips",
@@ -600,7 +600,7 @@
                     "x": 15,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "SP3",
                 "node_id": "7415ca65-e1a4-414d-99fe-dc2f6bd48be7",
                 "node_type": "dynamips",
@@ -669,7 +669,7 @@
                     "x": -1,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "BRANCH",
                 "node_id": "24e5bf4e-fe9c-4367-b3d7-9e0bc4d23004",
                 "node_type": "dynamips",
@@ -738,7 +738,7 @@
                     "x": 15,
                     "y": -25
                 },
-                "locked": false,
+                "locked": true,
                 "name": "SP4",
                 "node_id": "74cef480-3b4e-401c-8051-6ff3c92dff9a",
                 "node_type": "dynamips",
