@@ -6,6 +6,8 @@ This lab is built on c7200-adventerprisek9-mz.124-24.T2
 
 My laptop is running Debian 10 Testing, Intel i7 and 8GB RAM.
 
+Further explanations here: https://blog.thomarite.uk/index.php/2020/04/26/gns3-pe-ce-ospf-down-bit-and-external-lsa/
+
 This is the network diagram
 
 ![](images/mpls-l3vpn-ospf-down-bit.png)
